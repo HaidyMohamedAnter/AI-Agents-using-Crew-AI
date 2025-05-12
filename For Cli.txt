@@ -1,0 +1,5 @@
+Cmd/Powershell
+on your environment
+cd "C:\Users\hidoz\Desktop\AI Agents using Crew AI\agents"(path of folder agents)
+just for a preview (python report_writer_agent.py --preview)
+for pdf (python report_writer_agent.py)
